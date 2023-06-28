@@ -1,0 +1,16 @@
+{
+  "cls_token": "[CLS]",
+  "do_basic_tokenize": true,
+  "do_lower_case": false,
+  "mask_token": "[MASK]",
+  "model_max_length": 512,
+  "name_or_path": "IMSyPP/hate_speech_en",
+  "never_split": null,
+  "pad_token": "[PAD]",
+  "sep_token": "[SEP]",
+  "special_tokens_map_file": "/Users/coredump/.cache/huggingface/hub/models--IMSyPP--hate_speech_en/snapshots/ffe54334b9df65e704492d2d660610dd848658d6/special_tokens_map.json",
+  "strip_accents": null,
+  "tokenize_chinese_chars": true,
+  "tokenizer_class": "BertTokenizer",
+  "unk_token": "[UNK]"
+}
