@@ -1,4 +1,4 @@
-## Client Engineering Foundation Models Excerises
+### Client Engineering Foundation Models Exercises
 
-### 1. Use the text.csv file from the /data folder and summarise 3 of the stories 
-### 2. Use the provided Pytorch model from the /molde folder and classify the text from all 3 stories chosed above. 
+#### 1. Use the text.csv file from the /data folder and summarise 3 of the stories using a model /technique of your choice 
+#### 2. Use the provided Pytorch model from the /model folder and classify the text from all 3x stories chosen above (one by one).
