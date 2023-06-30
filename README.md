@@ -18,4 +18,4 @@ Use the provided Pytorch model from the /model folder and classify the text from
 Compare the summarized output of the article from /data and calculate the precision (BLEU score) taken into consideration the reference summary (summary-1-flan-ul2--article1) and the candidate summary (summary-2-flan-ul2--article1)
 
 **NOTE**:
-_You can provide your input within a Jupiter notebook containing the cells' output. Don't forget to be creative as much as you want in the provided time.  _
+You can provide your input within a Jupiter notebook containing the cells' output. Don't forget to be creative as much as you want in the provided time.
