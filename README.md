@@ -12,7 +12,7 @@ Process the provided text samples by:
 - Splits alphanumeric words into digits and text: "I will be buying movie tickets for 4adults"
 
 #### Exercise 2
-Use the text.csv file from the /data folder and summarize 3 of the stories using a model /technique of your choice 
+Use the text.csv file from the /data folder and summarize 3 of the stories using a model/technique of your choice 
 
 #### Exercise 3
 Use the provided Pytorch model from the /model folder and classify the text from all 3x stories chosen above (one by one).
