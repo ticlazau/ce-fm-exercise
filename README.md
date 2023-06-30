@@ -1,4 +1,4 @@
-### Client Engineering: Foundation Models Text Exercises
+### Client Engineering: LLMs Test Exercises
 
 #### Exercise 1:
 
