@@ -4,11 +4,8 @@
 
 Process the provided text samples by:
 - Remove urls from text: "The link to latest football score. https://xyz.com/a/b"
-
 - Remove alphanumeric words from text: "Hello Maria whatsup123"
-
 - Remove words start with character: "Mado is very good with last ball six #dhoni #six"
-
 - Splits alphanumeric words into digits and text: "I will be buying movie tickets for 4adults"
 
 #### Exercise 2
