@@ -4,7 +4,7 @@
   "do_lower_case": false,
   "mask_token": "[MASK]",
   "model_max_length": 512,
-  "name_or_path": "IMSyPP/hate_speech_en",
+  "name_or_path": "model/pytorch",
   "never_split": null,
   "pad_token": "[PAD]",
   "sep_token": "[SEP]",
